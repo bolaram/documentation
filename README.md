@@ -78,3 +78,4 @@ This is a guide for people who are not familiar with editing files through GitHu
 
 If you have any questions about contributing to our documentation, please reach out to support@opencollective.com. 
 
+
